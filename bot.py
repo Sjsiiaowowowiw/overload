@@ -25,8 +25,8 @@ def generate_start_message():
 
 def generate_count_message(username):
     message = (
-        f"〽️ Nosec HenryNET-DEV\n"
-        f"🏝️ Nosec SkiBiDi 🏝️\n"
+        f"〽️ Nosec Quý Cu To\n"
+        f"🏝️ Nosec Quydepzai 🏝️\n"
         f"➖➖➖➖➖➖➖➖➖➖\n"
         f"● Target: <blockquote>https://nosec.skibidi.sbs</blockquote>\n"
         f"🛡️ Protection Type: Nosec\n"
@@ -65,7 +65,7 @@ def update_statistics(chat_id, username):
 
                 result_message = (
                     f"<pre>"
-                    f"🐝 HenryNET-COUNT BOT\n"
+                    f"🐝 Quý Đẹp Zai\n"
                     f"● Nosec Data Statistics\n"
                     f"➖➖➖➖➖➖➖➖➖➖\n"
                     f"⤷ Peak visits per second: {peak_visits}\n"
