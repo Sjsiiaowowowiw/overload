@@ -28,7 +28,7 @@ def generate_count_message(username):
         f"〽️ Nosec Quý Cu To\n"
         f"🏝️ Nosec Quydepzai 🏝️\n"
         f"➖➖➖➖➖➖➖➖➖➖\n"
-        f"● Target: <blockquote>https://nosec.skibidi.sbs</blockquote>\n"
+        f"● Target: <blockquote>https://quydepzaicutovc.x10.mx/</blockquote>\n"
         f"🛡️ Protection Type: Nosec\n"
         f"⤷ Statistics Duration: 120 Seconds\n"
         f"⤷ Start Receiving Statistics From: {username}"
@@ -36,7 +36,7 @@ def generate_count_message(username):
     return message
 
 def update_statistics(chat_id, username):
-    target_url = "https://nosec.skibidi.sbs/nginx_status"
+    target_url = "https://quydepzaicutovc.x10.mx//nginx_status"
     total_visits = 0
     peak_visits = 0
     message_id = None
